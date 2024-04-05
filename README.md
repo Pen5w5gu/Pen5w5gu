@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, I'm Nguyen Tai Quan👋</h3>
-<p>👨‍💻 Students of FPT University, Hanoi
+👨‍💻 Students of FPT University, Hanoi
 🎨 Frontend: Strong in HTML5, CSS3, currenly in the process of learning about SASS, JavaScript, Boostrap.
 🚀 Backend: Experience with Java, C#, and SQL Server for building Web MVC.
 🔄 State Management: Proficient in server-side solutions such as Session and Database storage.
@@ -8,7 +8,7 @@
 ☁️ Deployment: No experience in this field
 ✔️ Testing: Experienced in identifying bugs in small projects, writing test cases, and documentation.
 🔍 Problem-solving: Debugging skills.
-💬 Communication: Effective team collaboration.</p>
+💬 Communication: Effective team collaboration.
 
 <h3 align="left">My portfolio:</h3>
 <a href="https://pen5w5gu.github.io/portfolio/">Click here</a>
