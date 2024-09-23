@@ -10,8 +10,17 @@
 - 🔍 Problem-solving: Debugging skills.
 - 💬 Communication: Effective team collaboration.
 
+
+
 ### My portfolio: <a href="https://pen5w5gu.github.io/Portfolio/">Click here</a>
 
+
+<div align="center">
+    <a href="https://github.com/YousefIbrahimismail" target="_blank">
+        <img src="https://github.com/Pen5w5gu/PenguMark/blob/master/QAndPico.gif?raw=true" 
+        alt="Logo" width="290" height="290">
+    </a>
+</div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pen5w5gu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
