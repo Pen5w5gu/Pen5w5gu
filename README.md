@@ -18,7 +18,7 @@
 <div align="center">
     <a href="https://github.com/YousefIbrahimismail" target="_blank">
         <img src="https://github.com/Pen5w5gu/PenguMark/blob/master/QAndPico.gif?raw=true" 
-        alt="Logo" width="290" height="290">
+        alt="Logo" width="290">
     </a>
 </div>
 
