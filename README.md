@@ -8,8 +8,8 @@
 
 ### Hi 👋, I'm Nguyen Tai Quan 👋
 - 👨‍💻 Students of FPT University, Hanoi
-- 🎨 Frontend: Strong in HTML5, CSS3, currenly in the process of learning about SASS, JavaScript, Boostrap.
-- 🚀 Backend: Experience with Java, C#, and SQL Server for building Web MVC.
+- 🎨 Frontend: Strong in HTML5, CSS3, currenly in the process of learning about React, SASS, JavaScript, Boostrap.
+- 🚀 Backend: Experience with NodeJs/NestJs, C#, Java and SQL/NoSQL for building Web MVC.
 - 🔄 State Management: Proficient in server-side solutions such as Session and Database storage.
 - 📱 UI/UX: Familiar with Figma and Adobe XD for design.
 - 📝 Version Control: Git/GitHub proficiency.
